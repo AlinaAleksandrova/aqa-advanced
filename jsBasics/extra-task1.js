@@ -18,3 +18,5 @@ function sumArray(arr) {
 
 console.log(sumArray([6, 2, 1, 8, 10]));
 console.log(sumArray([1, 1, 11, 2, 3]));
+console.log(sumArray(null));
+console.log(sumArray([5]));
